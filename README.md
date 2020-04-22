@@ -12,6 +12,11 @@ pkg install git
 
 git clone https://github.com/Oliveirae/BUSCAR-HOST.git
 
+Quando precisar abrir o menu novamente use:
+
+cd BUSCAR-HOST
+bash BUSCADOR.sh
+
 PASO 1 no script:
 
 [ Opção 1 ]: Para colar o domínio/host e buscar subdomínio do 
