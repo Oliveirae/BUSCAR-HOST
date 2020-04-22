@@ -1,5 +1,7 @@
 INSTALE OS CODIGOS NO TERMUX:
 
+termux-setup-storage
+
 pkg install curl 
 
 pkg install wget
