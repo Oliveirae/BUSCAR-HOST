@@ -10,6 +10,8 @@ apt update && apt upgrade
 
 pkg install git
 
+git clone https://github.com/Oliveirae/BUSCAR-HOST.git
+
 PASO 1 no script:
 
 [ Opção 1 ]: Para colar o domínio/host e buscar subdomínio do 
