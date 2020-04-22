@@ -15,6 +15,7 @@ git clone https://github.com/Oliveirae/BUSCAR-HOST.git
 Quando precisar abrir o menu novamente use:
 
 cd BUSCAR-HOST
+
 bash BUSCADOR.sh
 
 PASO 1 no script:
